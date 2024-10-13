@@ -30,7 +30,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/dubeyaksh/QRForge.git
+git clone https://github.com/tubamomin786/QRForge.git
 Navigate to the Project Directory
 
 bash
@@ -108,9 +108,9 @@ Open a Pull Request
 
 
 Contact
-Aksh Dubey
+Tuba Momin
 Frontend Developer
-Email: dubeyakshat@gmail.com
-GitHub: https://github.com/dubeyaksh
-LinkedIn: https://linkedin.com/in/akshdubey
+Email: tubamomin200@gmail.com
+GitHub: https://github.com/tubamomin786
+LinkedIn: https://www.linkedin.com/in/tuba-momin-80b0571bb
 
